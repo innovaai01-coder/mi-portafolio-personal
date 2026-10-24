@@ -1,0 +1,22 @@
+
+:root {
+    --color-principal: #8b5cf6;
+    --color-fondo: #f5f0ff;
+    --color-texto: #333333;
+}
+
+body {
+    background-color: var(--color-fondo);
+    color: var(--color-texto);
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: var(--color-principal);
+    font-size: 36px;
+}
+
+p {
+    font-size: 18px;
+}
